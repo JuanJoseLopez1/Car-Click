@@ -1,0 +1,17 @@
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Presentacion.exe
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Presentacion.pdb
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Domain.dll
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\DataAccess.dll
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Oracle.DataAccess.dll
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Domain.pdb
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\DataAccess.pdb
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.exe
+D:\Users\Documentos\INGS\CarClick App\Presentacion\obj\Debug\Presentacion.pdb
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Users\Documentos\INGS\CarClick App\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

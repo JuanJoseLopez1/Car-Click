@@ -1,0 +1,7 @@
+D:\Users\Documentos\INGS\CarClick App\DataAccess\bin\x64\Debug\DataAccess.dll
+D:\Users\Documentos\INGS\CarClick App\DataAccess\bin\x64\Debug\DataAccess.pdb
+D:\Users\Documentos\INGS\CarClick App\DataAccess\bin\x64\Debug\Oracle.DataAccess.dll
+D:\Users\Documentos\INGS\CarClick App\DataAccess\obj\x64\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Users\Documentos\INGS\CarClick App\DataAccess\obj\x64\Debug\DataAccess.csproj.CopyComplete
+D:\Users\Documentos\INGS\CarClick App\DataAccess\obj\x64\Debug\DataAccess.dll
+D:\Users\Documentos\INGS\CarClick App\DataAccess\obj\x64\Debug\DataAccess.pdb
